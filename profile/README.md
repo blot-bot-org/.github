@@ -1,11 +1,19 @@
 # The Blot Bot Project
-Blot Bot is a vertical plotter designed as part of a school project, combining custom hardware and software to turn simple components into a functional drawing machine.
+Blot Bot is a vertical plotter, partly for a school project, combining custom hardware and software to turn simple components into a functional drawing machine.
 The system allows anyone with stepper motors and a microcontroller to repurpose their hardware using Blot Bot's open-source software.<br>
 
+## The Organisation
 The organisation contains a couple repositories:
 - Blot Bot has a firmware binary which can be flashed on to any Arduino-compatible board, such as the ESP32.
 - Blot Bot also has an interfacing library, core-lib aka `bbcore`, with many useful utilities such as generating drawing instructions and handling the networking between the firmware and the software.
-- To implement `bbcore`, I am developing a desktop application which allows you to design and print drawings within a streamline app.
+- To implement `bbcore`, I am developing a desktop application which allows you to design and print drawings within a single app.
+<br>
 
-The library [bbcore](https://github.com/blot-bot-org/core-lib), and the desktop app [desktop](https://github.com/blot-bot-org/desktop) are being developed for my A-Level Computer Science NEA project.
+## A-Level NEA information
+The library [bbcore](https://github.com/blot-bot-org/core-lib), and the desktop app [desktop](https://github.com/blot-bot-org/desktop) (only) are being developed for my A-Level Computer Science NEA project.
 I have tried my best to decouple `bbcore` from the frontend, to allow any frontend such as a CLI to be developed around `bbcore`.
+<br><br>
+
+## A little showcase
+Here is a screenshot of the "Island" drawing style from my [desktop app](https://github.com/blot-bot-org/desktop):
+![Screenshot of Islands](https://i.imgur.com/XnGiEwS.jpeg)
