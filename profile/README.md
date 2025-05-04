@@ -1,6 +1,6 @@
 # The Blot Bot Project
-Blot Bot is a vertical plotter, partly for a school project, combining custom hardware and software to turn simple components into a functional drawing machine.
-The system allows anyone with stepper motors and a microcontroller to repurpose their hardware using Blot Bot's open-source software.<br>
+Blot Bot is a vertical plotter, built partly for a school project, which allows motors to move a pen to physically draw designs on paper.
+The Blot Bot ecosystem allows anyone with stepper motors and a microcontroller to repurpose their hardware using Blot Bot's open-source software.<br>
 
 ## The Organisation
 The organisation contains a couple repositories:
