@@ -7,6 +7,8 @@ The organisation contains a couple repositories:
 - Blot Bot has a firmware binary which can be flashed on to any Arduino-compatible board, such as the ESP32.
 - Blot Bot also has an interfacing library, core-lib aka `bbcore`, with many useful utilities such as generating drawing instructions and handling the networking between the firmware and the software.
 - To implement `bbcore`, I am developing a desktop application which allows you to design and print drawings within a single app.
+
+Information for specific aspects of the project can be found in their respective repositories.
 <br>
 
 ## A-Level NEA information
