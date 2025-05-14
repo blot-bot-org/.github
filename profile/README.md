@@ -19,5 +19,5 @@ Candidate number: 9056
 <br><br>
 
 ## A little showcase
-Here is a screenshot of the "Island" drawing style from my [desktop app](https://github.com/blot-bot-org/desktop):
+Here is a screenshot of the "Entropy" drawing style from my [desktop app](https://github.com/blot-bot-org/desktop):
 ![Screenshot of Islands](https://raw.githubusercontent.com/blot-bot-org/showcase/refs/heads/main/entropy.jpg)
