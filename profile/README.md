@@ -13,7 +13,7 @@ Information for specific aspects of the project can be found in their respective
 
 ## A-Level NEA information
 The library [bbcore](https://github.com/blot-bot-org/core-lib), desktop app [desktop](https://github.com/blot-bot-org/desktop) and the [firmware](https://github.com/blot-bot-org/firmware) are all being developed for my A-Level Computer Science NEA project.
-I have tried my best to decouple `bbcore` from the frontend, to allow any frontend such as a CLI to be developed around `bbcore`.<br><br>
+
 Centre Number: 20570<br>
 Candidate number: 9056
 <br><br>
